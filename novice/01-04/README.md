@@ -10,5 +10,8 @@ Map ibukota = {
   "jateng":"semarang",
   "jatim":"surabaya"
 };
-print(ibukota['jateng']);
+print(ibukota['jatim']);
+
+
 ```
+dart 

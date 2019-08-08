@@ -1,4 +1,4 @@
-vodi main(List<String>args){
+void main(List<String>args){
   set awarna = new Set.from(["merah", "kuning", "hijau"]);
   set bwarna = new Set.from(["kuning", "hijau", "jingga"]);
 
