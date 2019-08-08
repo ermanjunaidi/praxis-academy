@@ -2,7 +2,7 @@
 ##ERMAN JUNAIDI
 
 
-#MAP
+# MAP
 Untuk pemanggilan MAP bisa dipanggil dari key nya saja
 ```dart
 Map ibukota = {
@@ -15,7 +15,7 @@ print(ibukota['jatim']);
 
 ```
 
-#Kasus
+# `Kasus`
 untuk kasus class menggunakan Class Generic dicontohan dari contoh kasus pada java yang diambil dari github Praxis-academy.
 
 dengan hasil :
