@@ -27,9 +27,6 @@ void main() {
 }
 ```
 
-Hasil :
-
-<img src="img/class.png" />
 
 ## Constructor
 
@@ -51,8 +48,6 @@ void main() {
 
 ```
 
-Hasil :
-<img src="img/cons1.png" />
 
 ## Getter & Setter
 
@@ -96,8 +91,6 @@ void main() {
 
 ```
 
-Hasil :
-<img src="img/getset.png" />
 
 ## Inheritance
 
@@ -121,8 +114,6 @@ main() {
 
 ```
 
-Hasil:
-<img src="img/inherit.png">
 
 ## Static Keyword
 
