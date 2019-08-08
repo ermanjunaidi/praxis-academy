@@ -2,10 +2,10 @@ void main() {
   print('Hello, World');
 
   // Variables
-  var name = 'Voyager I';
+  var name = 'budi';
   var year = 1997;
-  var antennaDiameter = 3.7;
-  var flybyObject = ['Jupiter', 'Saturn', 'Uranus', 'Neptune'];
+  var diameterAntena = 3.7;
+  var bulan = ['Jupiter', 'Saturn', 'Uranus', 'Neptune'];
   var image = {
     'tags': ['saturn'],
     'url': '//path/to /saturn.jpg'

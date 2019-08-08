@@ -1,9 +1,4 @@
 main() {
-  // var voyager = Spacecraft('Voyager I', DateTime(1997, 9, 5));
-  // voyager.describe();
-
-  // var voyager3 = Spacecraft.unlaunched('Voyager III');
-  // voyager3.describe();
 
   var tes = Orbiter('Voyager II', DateTime(1997, 9, 5), 20.23232);
   tes.describe();

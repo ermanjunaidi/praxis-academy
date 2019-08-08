@@ -10,9 +10,7 @@ void main() {
 }
 ```
 
-Hasil:
 
-![Hasil](img/hello.png)
 
 **print()** digunakan untuk menampilkan teks pada console
 
@@ -21,10 +19,10 @@ Hasil:
 Pada dart dapat menggunkan **var** untuk semua tipe data dan secara otomatis tipe data akan menyesuaikan dengan **value** dari variable tersebut
 
 ```dart
-var name = 'Voyager I';
+var name = 'budi';
 var year = 1997;
-var antennaDiameter = 3.7;
-var flybyObject = ['Jupiter', 'Saturn', 'Uranus', 'Neptune'];
+var diamenterRoda = 3.7;
+var bula = ['Jupiter', 'Saturn', 'Uranus', 'Neptune'];
 var image = {
   'tags': ['saturn'],
   'url': '//path/to /saturn.jpg'
@@ -49,9 +47,6 @@ if (year >= 2001) {
 }
 ```
 
-Hasil:
-
-![Hasil](img/if.png)
 
 ## for in Loop
 
@@ -59,14 +54,11 @@ Hasil:
 Jadi setiap object yang terdapat pada list tersebut akan dipanggil
 
 ```dart
-for (var object in flybyObject) {
+for (var object in bula) {
   print(object);
 }
 ```
 
-Hasil:
-
-![Hasil](img/for-in.png)
 
 ## for loop
 
@@ -78,9 +70,6 @@ for(int month = 1; month <=12; month++){
 }
 ```
 
-Hasil:
-
-![Hasil](img/for.png)
 
 ## while Loop
 
@@ -93,9 +82,6 @@ while (year < 2016) {
 }
 ```
 
-Hasil:
-
-![Hasil](img/while.png)
 
 # Functions
 
@@ -180,10 +166,6 @@ var voyager3 = Spacecraft.unlaunched('Voyager III');
 voyager3.describe;
 ```
 
-Hasil:
-
-![Hasil](img/class.png)
-
 # Inheritance
 
 Inheritance atau Pewarisan dapat mewarisi method, properties dari parent class atau kelas induknya
@@ -192,10 +174,6 @@ Inheritance atau Pewarisan dapat mewarisi method, properties dari parent class a
 var tes = Orbiter('Voyager II', DateTime(1997, 9, 5), 20.23232);
 tes.describe();
 ```
-
-Hasil:
-
-![Hasil](img/inher.png)
 
 # Mixins
 
@@ -274,14 +252,14 @@ Untuk menangkap sebuah exception dengan cara menggunakan _statement_ <span style
 
 ```dart
 try {
-  for (var object in flybyObjects) {
+  for (var object in bulas) {
     var description = await File('$object.txt').readAsString();
     print(description);
   }
 } on IOException catch (e) {
   print('Could not describe object: $e');
 } finally {
-  flybyObjects.clear();
+  bulan.clear();
 }
 ```
 
