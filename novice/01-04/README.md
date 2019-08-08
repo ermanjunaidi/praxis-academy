@@ -1,9 +1,9 @@
 #PRAXIS ACADEMY
-#####ERMAN JUNAIDI
+##ERMAN JUNAIDI
 
 
 #MAP
-Untuk pemanggilan MAP bisa dipanggil dari key nya
+Untuk pemanggilan MAP bisa dipanggil dari key nya saja
 ```dart
 Map ibukota = {
   "indonesia":"jakarta",
@@ -14,4 +14,3 @@ print(ibukota['jatim']);
 
 
 ```
-dart 
