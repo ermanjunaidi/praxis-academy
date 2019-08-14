@@ -1,4 +1,8 @@
+# Hari 7 | Mengenal Widgets dan Layout
+
+##### Erman Junaidi | Selasa, 13 Agustus 2019
 FLUTTER TUTORIAL
+
 
 01 Flutter: Hello World
 
@@ -54,7 +58,7 @@ FLUTTER TUTORIAL
 
 02 Flutter: Stateless Widgets
 
-            ```dart
+        ```dart
             import 'package:flutter/material.dart';
 
             void main() {
@@ -133,6 +137,7 @@ FLUTTER TUTORIAL
 
             ```
     
+
 03 Flutter: Buttons and Stateful widgets
 
     sekarang kita mendalami Buttons and Stateful widgets, kita lihat contoh kodingnya sebagai berikut :
@@ -194,3 +199,4 @@ class AwesomeButtonState extends State<AwesomeButton> {
 
 ```
 
+04 Flutter: Basic Navigation & Routes
