@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "518949283857",
+    "firebase_url": "https://chat-22328.firebaseio.com",
+    "project_id": "chat-22328",
+    "storage_bucket": "chat-22328.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:518949283857:android:8195d7fece02a1f4",
+        "android_client_info": {
+          "package_name": "com.example.codelabs"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "518949283857-f1jtminhhgknpur61cqv5pognfkdkfd7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLE55-EdFWXNgfA1EiZ8-lMYX7BwDbhAE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "518949283857-f1jtminhhgknpur61cqv5pognfkdkfd7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
