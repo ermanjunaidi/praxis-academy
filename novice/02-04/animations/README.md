@@ -1,4 +1,10 @@
-TUTORIAL 3
+# Hari 3 | Animated
+
+###### Erman Junaidi - Senin, 25 Agustus 2019
+
+## Ringkasan Materi
+
+TUTORIAL 
 
 # ANIMATED 0
 
